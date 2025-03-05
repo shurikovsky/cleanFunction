@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/737bw3b8iuaiubyo?svg=true)](https://ci.appveyor.com/project/shurikovsky/cleanfunction)
