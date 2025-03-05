@@ -1,4 +1,4 @@
-import lifeIndicator from '..lifeIndicator.js';
+import lifeIndicator from '../lifeIndicator.js';
 test.each([
     [
         'critical', 10
